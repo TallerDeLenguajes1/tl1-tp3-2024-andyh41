@@ -1,0 +1,14 @@
+#executables files
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+# object files
+*.o
+*.ko
+*.obj
+*.elf
+#tds
+*.tds
